@@ -20,7 +20,7 @@ export class MenuComponent implements OnInit {
           {
             label: 'Texts and Dates',
             icon: 'pi pi-align-left',
-            routerLink: ''
+            routerLink: '/'
           },
           {
             label: 'Numbers',
